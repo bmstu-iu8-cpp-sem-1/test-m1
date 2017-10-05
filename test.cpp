@@ -9,6 +9,6 @@ int main()
     int d = 0;
     int e = 0;
     std::cin >> a >> b >> d >> c >> e;
-    std::cout << a << b << d << c << e << std::endl; 
+    std::cout << a << b << d << c << e << std::endl;
     return 0;
 }
